@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_transform_entry">
+    <sys_transform_entry action="DELETE">
+        <choice_action>create</choice_action>
+        <coalesce>false</coalesce>
+        <coalesce_case_sensitive>false</coalesce_case_sensitive>
+        <coalesce_empty_fields>false</coalesce_empty_fields>
+        <date_format>yyyy-MM-dd HH:mm:ss</date_format>
+        <map display_value="Clarity Docs">9ace3971dbeb73009d8df36f29961992</map>
+        <reference_value_field/>
+        <source_field>u_program</source_field>
+        <source_script><![CDATA[answer = (function transformEntry(source) {
+
+	// Add your code here
+	return ""; // return the value to be put into the target field
+
+})(source);]]></source_script>
+        <source_table>x_276909_workday_f_clarity_import_set</source_table>
+        <sys_class_name>sys_transform_entry</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-29 10:12:17</sys_created_on>
+        <sys_id>d23fb139dbeb73009d8df36f29961967</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_program</sys_name>
+        <sys_package display_value="Workday Finance" source="x_276909_workday_f">5dc8b351db2333009d8df36f299619e0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Workday Finance">5dc8b351db2333009d8df36f299619e0</sys_scope>
+        <sys_update_name>sys_transform_entry_d23fb139dbeb73009d8df36f29961967</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-29 10:12:17</sys_updated_on>
+        <target_field>primary_program</target_field>
+        <target_table>pm_project</target_table>
+        <use_source_script>false</use_source_script>
+    </sys_transform_entry>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Workday Finance">5dc8b351db2333009d8df36f299619e0</application>
+        <file_path/>
+        <instance_id>fb1185f8db6edf803353f22ebf961961</instance_id>
+        <instance_name>dev60561</instance_name>
+        <name>sys_transform_entry_d23fb139dbeb73009d8df36f29961967</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_transform_entry"&gt;&lt;sys_transform_entry action="INSERT_OR_UPDATE"&gt;&lt;choice_action&gt;create&lt;/choice_action&gt;&lt;coalesce&gt;false&lt;/coalesce&gt;&lt;coalesce_case_sensitive&gt;false&lt;/coalesce_case_sensitive&gt;&lt;coalesce_empty_fields&gt;false&lt;/coalesce_empty_fields&gt;&lt;date_format&gt;yyyy-MM-dd HH:mm:ss&lt;/date_format&gt;&lt;map display_value="Clarity Docs"&gt;9ace3971dbeb73009d8df36f29961992&lt;/map&gt;&lt;reference_value_field/&gt;&lt;source_field&gt;u_program&lt;/source_field&gt;&lt;source_script&gt;&lt;![CDATA[answer = (function transformEntry(source) {
+
+	// Add your code here
+	return ""; // return the value to be put into the target field
+
+})(source);]]&gt;&lt;/source_script&gt;&lt;source_table&gt;x_276909_workday_f_clarity_import_set&lt;/source_table&gt;&lt;sys_class_name&gt;sys_transform_entry&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2019-08-29 10:12:17&lt;/sys_created_on&gt;&lt;sys_id&gt;d23fb139dbeb73009d8df36f29961967&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;u_program&lt;/sys_name&gt;&lt;sys_package display_value="Workday Finance" source="x_276909_workday_f"&gt;5dc8b351db2333009d8df36f299619e0&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Workday Finance"&gt;5dc8b351db2333009d8df36f299619e0&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_transform_entry_d23fb139dbeb73009d8df36f29961967&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2019-08-29 10:12:17&lt;/sys_updated_on&gt;&lt;target_field&gt;primary_program&lt;/target_field&gt;&lt;target_table&gt;pm_project&lt;/target_table&gt;&lt;use_source_script&gt;false&lt;/use_source_script&gt;&lt;/sys_transform_entry&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-647846133</payload_hash>
+        <record_name>u_program</record_name>
+        <reverted_from/>
+        <source>d1c8b351db2333009d8df36f299619e3</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-29 10:12:17</sys_created_on>
+        <sys_id>d63fb139dbeb73009d8df36f29961968</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16cdcdc8c270000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-29 10:12:17</sys_updated_on>
+        <type>Field Map</type>
+        <update_guid>123fb1392eeb73007fdb61d507c86868</update_guid>
+        <update_guid_history>123fb1392eeb73007fdb61d507c86868:-647846133</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-29 11:23:41</sys_created_on>
+        <sys_db_object display_value="" name="sys_transform_entry">sys_transform_entry</sys_db_object>
+        <sys_id>1a82364487e047418f25fbbd40458399</sys_id>
+        <sys_metadata>d23fb139dbeb73009d8df36f29961967</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_program</sys_name>
+        <sys_package display_value="Workday Finance" source="x_276909_workday_f">5dc8b351db2333009d8df36f299619e0</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Workday Finance">5dc8b351db2333009d8df36f299619e0</sys_scope>
+        <sys_scope_delete display_value="">0db2048523594b688d0a9f933bd46190</sys_scope_delete>
+        <sys_update_name>sys_transform_entry_d23fb139dbeb73009d8df36f29961967</sys_update_name>
+        <sys_update_version display_value="sys_transform_entry_d23fb139dbeb73009d8df36f29961967">d63fb139dbeb73009d8df36f29961968</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-29 11:23:41</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

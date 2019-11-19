@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_project" label="Project" language="en" table="x_276909_workday_f_clarity_import_set">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_project</element>
+            <help/>
+            <hint/>
+            <label>Project</label>
+            <language>en</language>
+            <name>x_276909_workday_f_clarity_import_set</name>
+            <plural>Projects</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-08-29 08:50:37</sys_created_on>
+            <sys_id>ce8c2db1dbab73009d8df36f29961913</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Project</sys_name>
+            <sys_package display_value="Workday Finance" source="x_276909_workday_f">5dc8b351db2333009d8df36f299619e0</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Workday Finance">5dc8b351db2333009d8df36f299619e0</sys_scope>
+            <sys_update_name>sys_documentation_x_276909_workday_f_clarity_import_set_u_project_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-08-29 08:50:37</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

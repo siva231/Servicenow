@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="Sample" max_length="40" name="u_sample" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Activities or Configuration" max_length="40" name="u_activities_or_configuration" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="C" max_length="40" name="u_c" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Configuraation" max_length="40" name="u_configuraation" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Created by (Add field)" max_length="40" name="u_created_by__add_field_" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="F" max_length="40" name="u_f" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Phase" max_length="40" name="u_phase" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="PID" max_length="40" name="u_pid" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Planned Capital" max_length="40" name="u_planned_capital" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="planned start date" max_length="40" name="u_planned_start_date" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Program" max_length="40" name="u_program" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Project name" max_length="40" name="u_project_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Project number" max_length="40" name="u_project_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Status" max_length="40" name="u_status" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="TBC" max_length="40" name="u_tbc" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="TBC (O)" max_length="40" name="u_tbc__o_" type="string"/>
+    </element>
+</database>

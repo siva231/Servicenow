@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Workday Finance" max_length="40" name="x_276909_workday_f_workday_finance" type="collection">
+        <element label="Workday  Finance" max_length="40" name="workday_finance" type="boolean"/>
+    </element>
+</database>

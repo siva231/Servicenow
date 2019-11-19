@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="Clarity Import Set" max_length="40" name="x_276909_workday_f_clarity_import_set" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Activities or Configuration" label="Activities or Configuration" max_length="40" name="u_activities_or_configuration" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=C" label="C" max_length="40" name="u_c" type="string"/>
+        <element attributes="import_attribute_name=Configuraation" label="Configuraation" max_length="40" name="u_configuraation" type="integer"/>
+        <element attributes="import_attribute_name=Created by (Add field)" label="Created by (Add field)" max_length="40" name="u_created_by__add_field_" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Description" label="Description" max_length="45" name="u_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=F" label="F" max_length="40" name="u_f" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Phase" label="Phase" max_length="40" name="u_phase" type="string"/>
+        <element attributes="import_attribute_name=PID" label="PID" max_length="40" name="u_pid" type="integer"/>
+        <element attributes="import_attribute_name=Planned Capital" label="Planned Capital" max_length="40" name="u_planned_capital" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=planned start date" label="planned start date" max_length="40" name="u_planned_start_date" type="glide_date"/>
+        <element attributes="import_attribute_name=Program" label="Program" max_length="40" name="u_program" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Project" label="Project" max_length="40" name="u_project" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Project name" label="Project name" max_length="56" name="u_project_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Project number" label="Project number" max_length="40" name="u_project_number" type="string"/>
+        <element attributes="import_attribute_name=Status" label="Status" max_length="40" name="u_status" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=TBC" label="TBC" max_length="40" name="u_tbc" type="string"/>
+        <element attributes="import_attribute_name=TBC (O)" label="TBC (O)" max_length="40" name="u_tbc__o_" type="integer"/>
+    </element>
+</database>

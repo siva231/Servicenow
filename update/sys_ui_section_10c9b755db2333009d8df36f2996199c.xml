@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="10c9b755db2333009d8df36f2996199c" sys_domain="global" table="x_276909_workday_f_workday_finance" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>workday_finance</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-08-28 05:50:40</sys_created_on>
+            <sys_id>d8c9bf55db2333009d8df36f29961968</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_276909_workday_f_workday_finance" sys_domain="global" view="Default view">10c9b755db2333009d8df36f2996199c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-08-28 05:50:40</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_276909_workday_f_workday_finance</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-08-28 05:50:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>10c9b755db2333009d8df36f2996199c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_276909_workday_f_workday_finance</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Workday Finance" source="x_276909_workday_f">5dc8b351db2333009d8df36f299619e0</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Workday Finance">5dc8b351db2333009d8df36f299619e0</sys_scope>
+            <sys_update_name>sys_ui_section_10c9b755db2333009d8df36f2996199c</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-08-28 05:50:40</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

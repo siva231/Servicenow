@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_data_source">
+    <sys_data_source action="DELETE">
+        <category/>
+        <connection_timeout>0</connection_timeout>
+        <connection_url>attachment://sys_data_source:f98c2d31dbab73009d8df36f29961984/clarity transform map.xlsx</connection_url>
+        <connection_url_parameters/>
+        <csv_delimiter/>
+        <database_name/>
+        <database_port/>
+        <discard_arrays>true</discard_arrays>
+        <expand_node_children>false</expand_node_children>
+        <file_path>clarity transform map.xlsx</file_path>
+        <file_retrieval_method>Attachment</file_retrieval_method>
+        <format>Excel</format>
+        <glide_keystore>false</glide_keystore>
+        <header_row>1</header_row>
+        <import_set_table_label/>
+        <import_set_table_name>x_276909_workday_f_clarity_import_set</import_set_table_name>
+        <instance_name/>
+        <jdbc_password/>
+        <jdbc_server/>
+        <jdbc_user_name/>
+        <jpath_root_node/>
+        <last_run_database_field/>
+        <last_run_datetime/>
+        <ldap_target/>
+        <maximum_rows/>
+        <mid_server/>
+        <name>clarity transform map.xlsx (Uploaded)</name>
+        <oracle_port>1521</oracle_port>
+        <oracle_sid>orcl</oracle_sid>
+        <properties/>
+        <query>All Rows from Table</query>
+        <query_timeout>0</query_timeout>
+        <scp_authentication>Username and Password</scp_authentication>
+        <scp_password/>
+        <scp_port/>
+        <scp_server/>
+        <scp_user_name/>
+        <sheet_number>1</sheet_number>
+        <sql_statement/>
+        <ssh_keyfile_path/>
+        <sys_class_name>sys_data_source</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-29 08:50:35</sys_created_on>
+        <sys_id>f98c2d31dbab73009d8df36f29961984</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>clarity transform map.xlsx (Uploaded)</sys_name>
+        <sys_package display_value="Workday Finance" source="x_276909_workday_f">5dc8b351db2333009d8df36f299619e0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Workday Finance">5dc8b351db2333009d8df36f299619e0</sys_scope>
+        <sys_update_name>sys_data_source_f98c2d31dbab73009d8df36f29961984</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-29 08:50:38</sys_updated_on>
+        <table_name/>
+        <type>File</type>
+        <use_integrated_authentication>false</use_integrated_authentication>
+        <use_last_run_datetime>false</use_last_run_datetime>
+        <xpath_root_node/>
+        <zipped>false</zipped>
+    </sys_data_source>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Workday Finance">5dc8b351db2333009d8df36f299619e0</application>
+        <file_path/>
+        <instance_id>fb1185f8db6edf803353f22ebf961961</instance_id>
+        <instance_name>dev60561</instance_name>
+        <name>sys_data_source_f98c2d31dbab73009d8df36f29961984</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_data_source"><sys_data_source action="INSERT_OR_UPDATE"><category/><connection_timeout>0</connection_timeout><connection_url>attachment://sys_data_source:f98c2d31dbab73009d8df36f29961984/clarity transform map.xlsx</connection_url><connection_url_parameters/><csv_delimiter/><database_name/><database_port/><discard_arrays>true</discard_arrays><expand_node_children>false</expand_node_children><file_path>clarity transform map.xlsx</file_path><file_retrieval_method>Attachment</file_retrieval_method><format>Excel</format><glide_keystore>false</glide_keystore><header_row>1</header_row><import_set_table_label/><import_set_table_name>x_276909_workday_f_clarity_import_set</import_set_table_name><instance_name/><jdbc_password/><jdbc_server/><jdbc_user_name/><jpath_root_node/><last_run_database_field/><last_run_datetime/><ldap_target/><maximum_rows/><mid_server/><name>clarity transform map.xlsx (Uploaded)</name><oracle_port>1521</oracle_port><oracle_sid>orcl</oracle_sid><properties/><query>All Rows from Table</query><query_timeout>0</query_timeout><scp_authentication>Username and Password</scp_authentication><scp_password/><scp_port/><scp_server/><scp_user_name/><sheet_number>1</sheet_number><sql_statement/><ssh_keyfile_path/><sys_class_name>sys_data_source</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-08-29 08:50:35</sys_created_on><sys_id>f98c2d31dbab73009d8df36f29961984</sys_id><sys_mod_count>1</sys_mod_count><sys_name>clarity transform map.xlsx (Uploaded)</sys_name><sys_package display_value="Workday Finance" source="x_276909_workday_f">5dc8b351db2333009d8df36f299619e0</sys_package><sys_policy/><sys_scope display_value="Workday Finance">5dc8b351db2333009d8df36f299619e0</sys_scope><sys_update_name>sys_data_source_f98c2d31dbab73009d8df36f29961984</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-08-29 08:50:38</sys_updated_on><table_name/><type>File</type><use_integrated_authentication>false</use_integrated_authentication><use_last_run_datetime>false</use_last_run_datetime><xpath_root_node/><zipped>false</zipped></sys_data_source></record_update>]]></payload>
+        <payload_hash>-1928715815</payload_hash>
+        <record_name>clarity transform map.xlsx (Uploaded)</record_name>
+        <reverted_from/>
+        <source>d1c8b351db2333009d8df36f299619e3</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-29 08:50:38</sys_created_on>
+        <sys_id>2e8c2db1dbab73009d8df36f299619a3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16cdc91ce4b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-29 08:50:38</sys_updated_on>
+        <type>Data Source</type>
+        <update_guid>a68c2db17eab73009cf4845175b9aaa3</update_guid>
+        <update_guid_history>a68c2db17eab73009cf4845175b9aaa3:-1928715815,6a8c2db122ab730060e7f72640459ca2:-582152617</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-29 13:24:53</sys_created_on>
+        <sys_db_object display_value="" name="sys_data_source">sys_data_source</sys_db_object>
+        <sys_id>3f89fee933554d16b5d55ab2719b9c51</sys_id>
+        <sys_metadata>f98c2d31dbab73009d8df36f29961984</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>clarity transform map.xlsx (Uploaded)</sys_name>
+        <sys_package display_value="Workday Finance" source="x_276909_workday_f">5dc8b351db2333009d8df36f299619e0</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Workday Finance">5dc8b351db2333009d8df36f299619e0</sys_scope>
+        <sys_scope_delete display_value="">0db2048523594b688d0a9f933bd46190</sys_scope_delete>
+        <sys_update_name>sys_data_source_f98c2d31dbab73009d8df36f29961984</sys_update_name>
+        <sys_update_version display_value="sys_data_source_f98c2d31dbab73009d8df36f29961984">2e8c2db1dbab73009d8df36f299619a3</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-29 13:24:53</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
